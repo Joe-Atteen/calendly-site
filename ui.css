@@ -257,7 +257,7 @@ label button{
     width: 15rem;
     border-radius: 2rem;
     box-shadow: rgb(232, 232, 232) 0 0 4px 3px;
-    padding: 2rem 1rem;
+    padding: 2rem .5rem;
 }
 
 .card h4{
@@ -270,7 +270,7 @@ label button{
 }
 
 .cards p{
-    line-height: 2rem;
+    line-height: 1.5rem;
 }
 
 .ca-but{
